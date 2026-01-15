@@ -12,17 +12,17 @@ The goal of this repo is not just to submit solutions, but to **learn systematic
 kaggle_competitions/
 │
 ├── competition_1_name/
-│ ├── notebooks/
-│ ├── scripts/
-│ ├── data_description.md
-│ ├── learnings.md
-│ └── README.md
+│   ├── notebooks/
+│   ├── scripts/
+│   ├── data_description.md
+│   ├── learnings.md
+│   └── README.md
 │
 ├── competition_2_name/
-│ ├── notebooks/
-│ ├── scripts/
-│ ├── learnings.md
-│ └── README.md
+│   ├── notebooks/
+│   ├── scripts/
+│   ├── learnings.md
+│   └── README.md
 │
 └── README.md
 
